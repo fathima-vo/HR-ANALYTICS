@@ -1,0 +1,30 @@
+Job_Key,Department,Job_Role,Job_Level
+1,Engineering,Software Engineer,Entry/Mid
+2,Engineering,Senior Engineer,Senior
+3,Engineering,QA Analyst,Entry/Mid
+4,Engineering,DevOps Engineer,Entry/Mid
+5,Engineering,Engineering Manager,Manager/Director
+6,Sales,Sales Executive,Entry/Mid
+7,Sales,Account Manager,Manager/Director
+8,Sales,Sales Manager,Manager/Director
+9,Sales,Business Development Rep,Entry/Mid
+10,Customer Support,Support Agent,Entry/Mid
+11,Customer Support,Team Lead,Senior
+12,Customer Support,Support Manager,Manager/Director
+13,Human Resources,HR Executive,Entry/Mid
+14,Human Resources,Recruiter,Entry/Mid
+15,Human Resources,HR Manager,Manager/Director
+16,Human Resources,HR Business Partner,Entry/Mid
+17,Finance,Accountant,Entry/Mid
+18,Finance,Financial Analyst,Entry/Mid
+19,Finance,Finance Manager,Manager/Director
+20,Marketing,Marketing Executive,Entry/Mid
+21,Marketing,Content Specialist,Entry/Mid
+22,Marketing,Marketing Manager,Manager/Director
+23,Marketing,SEO Analyst,Entry/Mid
+24,Operations,Operations Executive,Entry/Mid
+25,Operations,Logistics Coordinator,Entry/Mid
+26,Operations,Operations Manager,Manager/Director
+27,Research & Development,Research Scientist,Entry/Mid
+28,Research & Development,Lab Technician,Entry/Mid
+29,Research & Development,Research Director,Manager/Director
